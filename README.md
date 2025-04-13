@@ -1,3 +1,9 @@
+# hello readers
+
+check out [my website](https://8lliotzhang.github.io/my-website/)
+
+
+
 - 👋 Hi, I’m @8lliotzhang
 - 👀 I’m interested in: game design and aerospace
 - 🌱 I’m currently learning: yes
