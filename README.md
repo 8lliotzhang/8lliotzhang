@@ -8,7 +8,11 @@ check out [my website](https://8lliotzhang.github.io/my-website/)
 - 👀 I’m interested in: game design and aerospace
 - 🌱 I’m currently learning: yes
 - 💞️ I’m looking to collaborate on: not much right now
-- 📫 How to reach me: my discord 
+- 📫 How to reach me: my discord
+
+
+this sentence references itself
+
 
 <!---
 8lliotzhang/8lliotzhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
