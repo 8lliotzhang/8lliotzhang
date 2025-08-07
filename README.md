@@ -1,7 +1,6 @@
 # hello readers
 
-check out [my website](https://8lliotzhang.github.io/my-website/)
-
+this sentence references itself. check out [my website](https://8lliotzhang.github.io/my-website/).
 
 
 - 👋 Hi, I’m @8lliotzhang
@@ -10,7 +9,6 @@ check out [my website](https://8lliotzhang.github.io/my-website/)
 - 💞️ I’m looking to collaborate on: not much right now
 - 📫 How to reach me: my discord
 
-this sentence references itself
 
 ### Things I made recently
 - [FreeSentiment, crowdsourced sentiment analysis powered by public shareholder voting](https://sanfa-cc986.web.app/)
